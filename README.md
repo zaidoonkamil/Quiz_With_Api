@@ -1,5 +1,3 @@
-# simple_quiz2
-
 A new Flutter project.
 
 ## Getting Started
